@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 100px;
+    padding: 2rem 0;
+    background: #04415b;
+    background-repeat: repeat;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
+
+.header img{
+    height: 50px;
+    margin-left: 10px;
+}
+.regis1{
+    margin-top: 30px;
+}
+
+h5{
+    font-size: 15px;
+}
